@@ -1,0 +1,41 @@
+body {
+  background-color: lightblue;
+}
+
+h1, h2, h3, h4 {
+	margin: 0px 50px 0px 50px;
+	font-weight: normal;
+	
+}
+
+.toc {
+	max-width:600px;
+	padding-top: 10px;
+	padding-right: 30px;
+	padding-bottom: 0px;
+	padding-left: 80px
+}
+
+#author {
+	font-style: italic;
+}
+
+p {
+	max-width:600px;
+	margin: 0px 50px 25px 50px;
+	text-align: justify;
+}
+
+
+figure, figcaption {
+	display: block; 
+	margin: 25px 50px 25px 75px;
+}
+
+figcaption {
+	font-style: italic;
+	font: 80%;
+	margin: 0px 50px 25px 75px
+}
+
+
